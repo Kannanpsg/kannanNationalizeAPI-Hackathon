@@ -1,0 +1,45 @@
+h2
+{
+  text-align:center;
+  font-size: 70px;
+
+}
+
+
+h3
+{
+ 
+  font-size: 30px;
+
+}
+
+h4{
+
+  text-align:center;
+  font-size:30px;
+}
+
+body
+{
+bacground-colour:#888;
+}
+
+img{
+    border-radius:50%;
+    position: absolute;
+    top: 40;
+    bottom: 30;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+
+.check
+{
+ align:center; 
+}
+
+.a
+{
+  text-align: center;
+}
