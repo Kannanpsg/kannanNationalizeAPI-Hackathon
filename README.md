@@ -2,4 +2,6 @@
 
 Netlify link
 
-https://app.netlify.com/sites/jovial-lamport-43348d/settings/domain
+https://jovial-lamport-43348d.netlify.app/
+
+https://jovial-lamport-43348d.netlify.app/
